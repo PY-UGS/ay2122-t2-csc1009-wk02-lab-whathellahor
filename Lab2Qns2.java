@@ -20,5 +20,4 @@ public class Lab2Qns2 {
         
         input.close();
     }
-    
 }
